@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://GoitStudentsWorks.github.io/node_bc_52_ann1777/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_bc_52_ann1777/",
   "type": "module",
   "scripts": {
     "dev": "vite",
